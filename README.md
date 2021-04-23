@@ -4,11 +4,11 @@ We always search for good talents for Craftgate. We believe that a talent opens 
 
 # The Way We Work
 
-At Craftgate, we don't have seniority levels (like junior, mid-level, senior, etc.) in titles. We call ourselves as `crafters`. We love our profession and we believe that we are in a journey of craftsmanship. 
+**We don't have seniority levels** (like junior, mid-level, senior, etc.) in titles at Craftgate. We call ourselves as `crafters`. We love our profession and we believe that we are in a journey of craftsmanship. 
 
-We don't have any team leader, team manager or technical leader role or position at Craftgate. Every crafter is a natural-born leader and leads the team unintentionally regartless of work experience in years. 
+**We don't have any team leader position** at Craftgate. Every crafter is a natural-born leader and leads the team unintentionally regartless of work experience in years. 
 
-We are active practitioners of pair/mob programming. Therefore all crafters are expected to be skilled at collaboration and teamwork. 
+**We are active practitioners of pair/mob programming**. Therefore all crafters are expected to be skilled at collaboration and teamwork. 
 
 Here are some videos you should take a look in order to learn more about us. All videos are in Turkish, btw.
 * [The Story of Craftbase - eGirişim](https://www.youtube.com/watch?v=jXvuTSZ87rQ)
