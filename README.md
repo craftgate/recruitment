@@ -33,6 +33,7 @@ We have a well-designed, peaceful office at [Nidakule, Göztepe, İstanbul](http
 
 No matter of age, or work experience in years, or previous job title, expectations are all the same from all crafters.
 
+* Disciplined, motivated and passionate
 * Develop and designing relevant code on project needs
 * Feels comfortable when working in pairs 
 * Collaborates with the team to make technical tasks done
