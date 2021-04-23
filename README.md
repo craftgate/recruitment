@@ -2,7 +2,7 @@
 
 We always search for good talents for Craftgate. We believe that a talent opens its own position. Therefore regardless of time and conditions, if you really want to join the team of crafters, do not hesitate and send your CV to [talent@craftgate.io](mailto:talent@craftgate.io).
 
-![Apply Now](images/apply-now.png)
+[![Apply Now](images/apply-now.png)](mailto:talent@craftgate.io)
 
 # The Way We Work
 
