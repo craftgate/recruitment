@@ -16,7 +16,7 @@ Here are some videos you should take a look in order to learn more about us. All
 * [The Story of Craftbase - eGirişim](https://www.youtube.com/watch?v=jXvuTSZ87rQ)
 * [Craft Talks About Professionalism and Entrepreneurship](https://www.youtube.com/watch?v=pNlycwlsJAU&list=PLbC9BftmN4uI9aK_m4MpVGOGSrUl_xNR8)
 
-# Remote Work
+# Remote Work, Forever
 
 We've been working remotely since March 2020. We love remote working and we plan to continue in that style forever. Crafters do not all live at Istanbul. We have teammates living at Ankara, Konya and Kırıkkale already.
 
@@ -57,3 +57,7 @@ We are experts of the following technologies, architecture and practices.
 # Technology Stack
 
 You can check the technology stack of Craftgate from [Stackshare](https://stackshare.io/craftgate/craftgate)
+
+# How Craftgate Recruits
+
+We always seek new ways to build more humanized, ethical and fair recruitment process. We've evolved our recruting strategy by gradually improving it throughout the years. We believe recruitment requires hard work both for us and candidate and we have to make it a win-win for both sides. If you start your recruitment journey at Craftgate, we guarantee you will learn and improve yourself at every step. 
