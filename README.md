@@ -2,6 +2,8 @@
 
 We always search for good talents for Craftgate. We believe that a talent opens its own position. Therefore regardless of time and conditions, if you really want to join the team of crafters, do not hesitate and send your CV to [talent@craftgate.io](mailto:talent@craftgate.io).
 
+![Apply Now](images/apply-now.png)
+
 # The Way We Work
 
 **We don't have seniority levels** (like junior, mid-level, senior, etc.) in titles at Craftgate. We call ourselves as `crafters`. We love our profession and we believe that we are in a journey of craftsmanship. 
