@@ -20,7 +20,7 @@ We've been working remotely since March 2020. We love remote working and we plan
 
 We have a well-designed, peaceful office at [Nidakule, Göztepe, İstanbul](https://goo.gl/maps/dZExPrREB9pDtbWPA). However it is just open for crafters to use whenever they get bored from working from home.
 
-# Expectations From A Crafter
+# Expectations From A Crafter
 
 No matter of age, or work experience in years, or previous job title, expectations are all the same from all crafters.
 
@@ -46,28 +46,12 @@ We are experts of the following technologies, architecture and practices.
 * Transaction Management
 * Git, CI/CD Pipeline
 * Automated Testing, including unit, integration and contract testing
-* Pair/mob Programming
-* Clean Code Principles
-
-# Technology Stack
-
-* Java 11+, Groovy 3.0
-* Spring (Data, JPA, Security)
-* Spring Boot 2+
-* Spring Cloud (Config, Gateway, Discovery, OAuth2, Circuit Breaker, Sleuth)
-* Maven / Gradle
-* JUnit 5, Spock, Cucumber, Mockito
-* Docker, Kubernetes (AWS, GCP)
-* MySQL / PostgreSQL
-* Redis / MongoDB / Couchbase / RabbitMQ / Kafka
-* Github/Gitlab, Github Actions, Gitlab CI
-* Trunk Based Development
-* Microservices & Modular Monoliths
-* Rest Standards
-* Hexagonal Architecture & Modular Architecture
-* Clean Code Principles
 * Designing code via TDD
 * Consumer-driven contract testing
 * Pair/Mob Programming
-* Automated Testing (Unit/Integration/Functional/Load)
-* Static code analysis with Sonar
+* Clean Code Principles
+* Static Code Analysis
+
+# Technology Stack
+
+You can check the technology stack of Craftgate from [Stackshare](https://stackshare.io/craftgate/craftgate)
