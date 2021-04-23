@@ -69,3 +69,17 @@ You can check the technology stack of Craftgate from [Stackshare](https://stacks
 # How Craftgate Recruits
 
 We always seek new ways to build more humanized, ethical and fair recruitment process. We've evolved our recruting strategy by gradually improving it throughout the years. We believe recruitment requires hard work both for us and candidate and **we make it a win-win** for both sides. If you start your recruitment journey at Craftgate, we guarantee you will learn and improve yourself at every step. 
+
+Recruitment process has 4 main steps. Let's deep dive into details for each step.
+
+### Step 1: Technical Interview
+TBD
+
+### Step 2: Challenge Project
+TBD
+
+### Step 3: Challenge Review
+TBD
+
+### Step 4: Cultural Interview
+TBD
