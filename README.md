@@ -4,6 +4,13 @@ We always search for good talents for Craftgate. We believe that a talent opens 
 
 [![Apply Now](images/apply-now.png)](mailto:talent@craftgate.io)
 
+# What is Craftgate?
+
+Craftgate is a payment hub on top of banks and other payment facilitators, allowing companies process payments with lower costs and easy integration. Craftgate gives companies one-stop-shop payment services as a B2B SaaS product without interfering with the relationship between you and the bank. 
+
+We believe in the developer first strategy. With Craftgate's developer friendly API, companies integrate so easily with well documented enpoints. Here are some videos you should take a look in order to learn about how people can test and experience Craftgate, how companies integrate with the APIs.
+* [Craftgate Youtube Channel](https://www.youtube.com/channel/UCFKC5OeRhqumyXBMtJHcxJQ)
+
 # The Way We Work
 
 **We don't have seniority levels** (like junior, mid-level, senior, etc.) in titles at Craftgate. We call ourselves as `crafters`. We love our profession and we believe that we are in a journey of craftsmanship. 
