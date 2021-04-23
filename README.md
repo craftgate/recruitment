@@ -43,7 +43,7 @@ No matter of age, or work experience in years, or previous job title, expectatio
 * A good reader, experimenter and hungry to learn and share
 * Open minded, honest, has intense care for ethics
 
-# Key Technologies, Architecture and Practices Used At Craftgate
+# Key Technologies, Architecture and Practices Used
 
 We are experts of the following technologies, architecture and practices. 
 
