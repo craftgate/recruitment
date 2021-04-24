@@ -73,13 +73,37 @@ We always seek new ways to build a more humanized, ethical, and fair recruitment
 The recruitment process has 4 main steps. Let's deep dive into details for each step.
 
 ### Step 1: Technical Interview
-TBD
+
+If your submission is accepted after evaluating your CV, we organize a zoom meeting as the first step in the process. Two crafters join from the Craftgate side and discuss technical topics for one hour. The discussions mainly around the following areas and technology-stack-related topics.
+
+* Object-Oriented Programming
+* Restful Web Services
+* Microservices
+* Data Structures, and Algorithms
+* Database Theory
+* Web Programming
+* Concurrency, and Scaling
+* Continuous Delivery
+* Automated Testing
+* SOLID Principles, and Clean Code
+* Pair/Mob Programming
+
+During the interview, you hear what we expect from a crafter. Also, we hear what you expect to see from a company/culture that motivates you. We inform all the details about the recruitment process and let the candidate has no blur points in its mind.
 
 ### Step 2: Challenge Project
-TBD
+
+If both sides feel happy about the outcome of the first interview, we continue with the second step. At this stage, we send a challenge project to the candidate. We expect to see the challenge finalized in one week. Our aim is not to rush candidates and make them stressed in their busy schedules. Therefore, if candidates ask for extra time, we give them as they want. 
+
+When the project is submitted by the candidate, we evaluate that. If both sides feel to continue with the process, we organize a challenge review meeting via zoom.
 
 ### Step 3: Challenge Review
-TBD
+
+This step aims to review the challenge project with the candidate. All software crafters join this meeting, that is around 8-9 crafters total. We ask questions to understand the reasons for design decisions made and comment on these. Also, the candidate hears the points crafters care about. Since the candidate meets with all its possible teammates in one virtual room, it can ask questions at any point to make us clarify. 
+
+We also ask for improving the design by drawing components and diagrams on a virtual whiteboard. That is an intense discussion that usually both sides improve their knowledge. The meeting takes around 1.5 hours.
+
+After the completion, all crafters come together and analyze the interviews. If all participants strongly agree, we organize the last interview with the CEO of Craftgate, i.e. Hakan Erdoğan.
 
 ### Step 4: Cultural Interview
-TBD
+
+This is the last step in our recruitment process. Hakan basically chats with the candidate and tries to understand if the candidate can fit the company from cultural and technical perspectives.
