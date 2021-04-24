@@ -49,9 +49,12 @@ No matter of age, or work experience in years, or previous job title, expectatio
 We are experts in the following technologies, architecture, and practices. 
 
 * Java and JVM Ecosystem
+* Object-Oriented Programming
 * Spring Boot and Spring Ecosystem
 * Database, JPA, and Hibernate
+* Restful Web Services
 * Microservice and Modular Architecture
+* Concurrency, and Scaling
 * Rest Standards
 * Transaction Management
 * Git, CI/CD Pipeline
@@ -59,7 +62,7 @@ We are experts in the following technologies, architecture, and practices.
 * Designing code via TDD
 * Consumer-driven contract testing
 * Pair/Mob Programming
-* Clean Code Principles
+* SOLID Principles, and Clean Code
 * Static Code Analysis
 
 # Technology Stack
@@ -75,18 +78,6 @@ The recruitment process has 4 main steps. Let's deep dive into details for each 
 ### Step 1: Technical Interview
 
 If your submission is accepted after evaluating your CV, we organize a zoom meeting as the first step in the process. Two crafters join from the Craftgate side and discuss technical topics for one hour. The discussions mainly around the following areas and technology-stack-related topics.
-
-* Object-Oriented Programming
-* Restful Web Services
-* Microservices
-* Data Structures, and Algorithms
-* Database Theory
-* Web Programming
-* Concurrency, and Scaling
-* Continuous Delivery
-* Automated Testing
-* SOLID Principles, and Clean Code
-* Pair/Mob Programming
 
 During the interview, you hear what we expect from a crafter. Also, we hear what you expect to see from a company/culture that motivates you. We inform all the details about the recruitment process and let the candidate has no blur points in its mind.
 
