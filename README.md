@@ -98,3 +98,11 @@ After the completion, all crafters come together and analyze the interviews. If 
 ### Step 4: Cultural Interview
 
 This is the last step in our recruitment process. Hakan basically chats with the candidate and tries to understand if the candidate can fit the company from cultural and technical perspectives.
+
+# Do You Want To Join?
+
+We tried to share all the details with you. if you want to join the team of crafters, do not hesitate and send your CV to [talent@craftgate.io](mailto:talent@craftgate.io).
+
+[![Apply Now](images/apply-now.png)](mailto:talent@craftgate.io)
+
+Hope to meet you soon...
