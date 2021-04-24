@@ -6,7 +6,7 @@ We always search for good talents for Craftgate. We believe that talents open th
 
 # What is Craftgate?
 
-Craftgate is a payment hub on top of banks and other payment facilitators, allowing companies process payments with lower costs and easy integration. Craftgate gives companies one-stop-shop payment services as a B2B SaaS product without interfering with the relationship between you and the bank. 
+[Craftgate](https://craftgate.io) is a payment hub on top of banks and other payment facilitators, allowing companies process payments with lower costs and easy integration. Craftgate gives companies one-stop-shop payment services as a B2B SaaS product without interfering with the relationship between you and the bank. 
 
 We believe in the developer-first strategy. With Craftgate's developer-friendly API, companies integrate easily with well-documented endpoints. Here are some videos you should take a look at to learn about how people can test and experience Craftgate, how companies integrate with the APIs.
 * [Craftgate Youtube Channel](https://www.youtube.com/channel/UCFKC5OeRhqumyXBMtJHcxJQ)
