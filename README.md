@@ -37,7 +37,7 @@ No matter of age, or work experience in years, or previous job title, expectatio
 * Develop and designing relevant code on project needs
 * Feels comfortable when working in pairs 
 * Collaborates with the team to make technical tasks done
-* Knows and implements agile practices
+* Has an agile mindset
 * Has a mindset of high quality, simplicity, and well-craftedness
 * Has good soft and communication skills
 * Startup experience (would be great to have)
