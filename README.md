@@ -13,7 +13,7 @@ We believe in the developer-first strategy. With Craftgate's developer-friendly 
 
 # The Way We Work
 
-**We don't have seniority levels** (like junior, mid-level, senior, etc.) in titles at Craftgate. We call ourselves `crafters`. We love our profession and we believe that we are on a journey of craftsmanship. 
+**We don't have seniority levels** (like junior, mid-level, senior, etc.) in titles at Craftgate. We are all `crafters`. We love our profession and we believe that we are on a journey of craftsmanship. 
 
 **We don't have any team leader position** at Craftgate. Every crafter is a natural-born leader and leads the team unintentionally regardless of work experience in years. 
 
