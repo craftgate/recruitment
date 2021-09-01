@@ -25,7 +25,7 @@ Here are some videos you should take a look to learn more about us. All videos a
 
 # Remote Work, Forever
 
-We've been working remotely since March 2020. We love remote working and we plan to continue in that style forever. Crafters do not all live at Istanbul. We have teammates living at Ankara, Konya, and Lüleburgaz already.
+We've been working remotely since March 2020. We love remote working and we plan to continue in that style forever. Crafters do not all live at Istanbul. We have teammates living at Ankara and Konya already.
 
 We have a well-designed, peaceful office at [Nidakule, Göztepe, İstanbul](https://goo.gl/maps/dZExPrREB9pDtbWPA). However, it is just open for crafters to use whenever they get bored from working from home.
 
