@@ -48,12 +48,13 @@ No matter of age, or work experience in years, or previous job title, expectatio
 
 We are experts in the following technologies, architecture, and practices. 
 
-* Java and JVM Ecosystem
+* Java, Groovy and JVM Ecosystem
 * Object-Oriented Programming
-* Spring Boot and Spring Ecosystem
+* Spring Boot, Spring Cloud and Spring Ecosystem
 * Database, JPA, and Hibernate
 * Restful Web Services
-* Microservice and Modular Architecture
+* Microservice and Modular Architectures
+* Hexagonal Architecture, Domain Driven Design Principles
 * Concurrency, and Scaling
 * Rest Standards
 * Transaction Management
