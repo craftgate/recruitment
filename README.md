@@ -20,7 +20,7 @@ We believe in the developer-first strategy. With Craftgate's developer-friendly 
 **We are active practitioners of pair/mob programming**. Therefore all crafters are expected to be skilled at collaboration and teamwork. 
 
 Here are some videos you should take a look to learn more about us. All videos are in Turkish, btw.
-* [The Journey and the Roadmap of Craftgate](https://www.youtube.com/watch?v=pPQ0hD11568)
+* [The Journey and the Roadmap of Craftgate - 5tech.tv](https://www.youtube.com/watch?v=pPQ0hD11568)
 * [The Story of Craftbase - eGirişim](https://www.youtube.com/watch?v=jXvuTSZ87rQ)
 * [Craft Talks About Professionalism and Entrepreneurship](https://www.youtube.com/watch?v=pNlycwlsJAU&list=PLbC9BftmN4uI9aK_m4MpVGOGSrUl_xNR8)
 
