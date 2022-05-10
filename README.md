@@ -49,7 +49,9 @@ No matter of age, or work experience in years, or previous job title, expectatio
 
 We are experts in the following technologies, architecture, and practices. 
 
-* Java, Groovy and JVM Ecosystem
+* Java 17, Groovy 3 and JVM Ecosystem
+* AWS, Kubernetes
+* Redis, Kafka, Mysql, Elastic Search 
 * Object-Oriented Programming
 * Spring Boot, Spring Cloud and Spring Ecosystem
 * Database, JPA, and Hibernate
