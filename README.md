@@ -47,26 +47,55 @@ No matter of age, or work experience in years, or previous job title, expectatio
 
 # Key Technologies, Architecture, and Practices Used
 
-We are experts in the following technologies, architecture, and practices. 
+We are experts in the following technologies, architecture, and practices. We have devops culture, that's why we don't have separate backend or frontend teams. We have  `product teams` having all talents inside. All collaborate closely with each other.
 
+## Backend
 * Java 17, Groovy 3 and JVM Ecosystem
-* AWS, Kubernetes
-* Redis, Kafka, Mysql, Elastic Search 
 * Object-Oriented Programming
 * Spring Boot, Spring Cloud and Spring Ecosystem
 * Database, JPA, and Hibernate
 * Restful Web Services
 * Microservice and Modular Architectures
 * Hexagonal Architecture, Domain Driven Design Principles
-* Concurrency, and Scaling
+* Concurrency and Scaling
 * Rest Standards
 * Transaction Management
-* Git, CI/CD Pipeline
-* Automated Testing, including unit, integration, and contract testing
 * Designing code via TDD
+* SOLID Principles and Clean Code
+
+## Frontend
+* Translating UI/UX design wireframes to actual code
+* Design and Build React based scalable, fast UI components
+* Full ownership of CI/CD pipeline
+* Automated testing
+* Search engine optimization
+
+## User Experience
+* Working on great challenges of payment related flows and UX needs
+* Bechmarking, prototyping, data centric behavior analysis
+* User experience design
+
+## Platform & Infrastructure
+* AWS, Kubernetes, Docker
+* Infrastructure having almost-100% up-time
+* Designing, building, maintaining, monitoring infrastructure
+* Maintaining PCI-DSS based high security standards
+* Multi environments
+* Redis, Kafka, Mysql, Elastic Search, HSM, APM 
+
+## Testing
+* Automated testing, including unit, integration, functional and contract testing
 * Consumer-driven contract testing
-* Pair/Mob Programming
-* SOLID Principles, and Clean Code
+* Exploratory testing
+* Close collaboration with product managers
+
+## Development Practices & Tools
+* The Craftgate Model (that is what we call our way of working)
+* Trunk based development
+* Mono repository
+* CI/CD Pipeline via Github & Github Actions
+* Remote Pair/Mob Programming
+* Code Review
 * Static Code Analysis
 
 # Technology Stack
