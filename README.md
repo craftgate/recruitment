@@ -10,6 +10,7 @@ We always search for good talents for Craftgate. We believe that talents open th
 
 We believe in the developer-first strategy. With Craftgate's developer-friendly API, companies integrate easily with well-documented endpoints. Here are some videos you should take a look at to learn about how people can test and experience Craftgate, how companies integrate with the APIs.
 * [Craftgate Youtube Channel](https://www.youtube.com/channel/UCFKC5OeRhqumyXBMtJHcxJQ)
+* [About Craftgate](https://craftgate.io/en/about-us/)
 
 # The Way We Work
 
