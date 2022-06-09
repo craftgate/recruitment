@@ -75,7 +75,7 @@ We are experts in the following technologies, architecture, and practices. We ha
 * Bechmarking, prototyping, data centric behavior analysis
 * User experience design
 
-## Platform & Infrastructure
+## Cloud, Platform & Infrastructure
 * AWS, Kubernetes, Docker
 * Infrastructure having almost-100% up-time
 * Designing, building, maintaining, monitoring infrastructure
