@@ -113,7 +113,7 @@ The recruitment process has 4 main steps. Let's deep dive into details for each 
 
 If your submission is accepted after evaluating your CV, we organize a zoom meeting as the first step in the process. Two crafters join from the Craftgate side and discuss technical topics for one hour. The discussions mainly around the following areas and technology-stack-related topics.
 
-During the interview, you hear what we expect from a crafter. Also, we hear what you expect to see from a company/culture that motivates you. We inform all the details about the recruitment process and let the candidate has no blur points in its mind.
+During the interview, you hear what we expect from a crafter. Also, we hear what you expect to see from a company/culture that motivates you. We inform all the details about the recruitment process.
 
 ### Step 2: Challenge Project
 
