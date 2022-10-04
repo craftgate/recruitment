@@ -78,7 +78,7 @@ We are experts in the following technologies, architecture, and practices. We ha
 
 ## Cloud, Platform & Infrastructure
 * AWS, Kubernetes, Docker
-* AWS RDS, MKS, EKS, EC2, Cloudfront, Route 53, OpenSearch
+* AWS RDS, MSK, EKS, EC2, Cloudfront, Route 53, OpenSearch
 * Infrastructure having almost-100% up-time
 * Designing, building, maintaining, monitoring infrastructure
 * Maintaining PCI-DSS based high security standards
