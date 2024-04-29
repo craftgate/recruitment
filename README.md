@@ -51,7 +51,7 @@ No matter of age, or work experience in years, or previous job title, expectatio
 We are experts in the following technologies, architecture, and practices. We have devops culture, that's why we don't have separate backend or frontend teams. We have  `product teams` having all talents inside. All collaborate closely with each other.
 
 ## Backend
-* Java 17, Groovy 3 and JVM Ecosystem
+* Java 17, Groovy 3, Kotlin 1.9.20 and JVM Ecosystem
 * Object-Oriented Programming
 * Spring Boot, Spring Cloud and Spring Ecosystem
 * Database, JPA, and Hibernate
@@ -79,6 +79,7 @@ We are experts in the following technologies, architecture, and practices. We ha
 ## Cloud, Platform & Infrastructure
 * AWS, Kubernetes, Docker
 * AWS RDS, MSK, EKS, EC2, Cloudfront, Route 53, OpenSearch
+* Infrastructure running on Local Datacenters
 * Infrastructure having almost-100% up-time
 * Designing, building, maintaining, monitoring infrastructure
 * Maintaining PCI-DSS based high security standards
