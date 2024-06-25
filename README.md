@@ -137,7 +137,7 @@ This is the last step in our recruitment process. Hakan basically chats with the
 
 # Do You Want To Join?
 
-We tried to share all the details with you. if you want to join the team of crafters, do not hesitate and send your CV to [talent@craftgate.io](mailto:talent@craftgate.io).
+We tried to share all the details with you. If you want to join the team of crafters, do not hesitate and send your CV to [talent@craftgate.io](mailto:talent@craftgate.io).
 
 [![Apply Now](images/apply-now.png)](mailto:talent@craftgate.io)
 
